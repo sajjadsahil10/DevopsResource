@@ -12,3 +12,7 @@ echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]" \
 
 sudo apt-get update
 sudo apt-get install jenkins -y
+
+#jenkins credentials - admin/darbhanga
+#jdk tool configuration - OracleJDK11---/usr/lib/jvm/java-11-openjdk-amd64
+#MAVEN3

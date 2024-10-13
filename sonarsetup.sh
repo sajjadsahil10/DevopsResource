@@ -121,3 +121,7 @@ reboot
 #nexus credentials admin/darbhanga
 #sonar credentials admin/admin
 #0b19d0a589e654ee09091405a049fb59e4530a42
+#SONAR4.7
+#sonar token - 07799786e5dde5f550b157ba1617ea66c8bf5636
+#Sonartoken
+#345594577499.dkr.ecr.us-east-1.amazonaws.com/vprofileappimg
